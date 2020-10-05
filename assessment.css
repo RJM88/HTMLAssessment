@@ -13,9 +13,9 @@ caption, th{
   text-align: center;
 }
 
-ul > li > img{
-  list-style: none;
-display: none;
+li > img:first-child{
+  list-style-type: none;
+  display: none;
 
 }
 
